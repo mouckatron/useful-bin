@@ -1,0 +1,1 @@
+wget -o /dev/null -O- "https://www.random.org/passwords/?num=1&len=$1&format=plain&rnd=new"
